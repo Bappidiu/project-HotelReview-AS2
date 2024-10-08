@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px){
+    .carosel{
+        display:inline;
+    }
+    .discover{
+        width: auto;
+    }
+    .review{
+        display: inline-block;
+        
+    }
+    .arman{
+        width: 100%;
+    }
+   .arrow{
+    width: 100%;
+   }
+   .final{
+    display: none;
+   }
+   
+}
+ 
